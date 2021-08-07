@@ -1,5 +1,5 @@
 # nochia-blockchain 
-# ( Email: jetbomb2012@gmail.com tel:0938222075 )
+# ( Email: jetbomb2012@gmail.com Tel:0938222075 )
 ![Alt text](https://www.chia.net/img/chia_logo.svg)
 
 | Current Release/main | Development Branch/dev |
