@@ -1,5 +1,5 @@
 # There is no chia-blockchain here ! 
-# Email: jetbomb2012@gmail.com ; Tel:0909986715 (媒體專用)
+# Email: jetbomb2012@gmail.com ; Tel:090986715 (媒體專用)
 # 彭恢華 
 ![Alt text](https://www.chia.net/img/chia_logo.svg)
 | Current Release/main | Development Branch/dev |
