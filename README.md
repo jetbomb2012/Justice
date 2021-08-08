@@ -1,4 +1,4 @@
-# 顏大和檢察長與柯怡如檢察官違法庇護案件, 已東窗事發, 應付出應得之代價! 
+# 司法官違法庇護案件, 已東窗事發, 應付出應得之代價! 
 # Email: jetbomb2012@gmail.com ; Tel:0909986715 (媒體專用)
 # 彭恢華 ( MCSD-2002 , MBA-NTPU )
 ![Alt text](https://www.chia.net/img/chia_logo.svg)
