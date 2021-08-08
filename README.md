@@ -4,7 +4,7 @@
 # 三. 其它協同配合不法之司法官及事務官員
 # 告訴人 彭恢華 ( MCSD-2002 , MBA-NTPU )
 # Email: jetbomb2012@gmail.com 
-# Tel:0909986715 (媒體專用)
+# Tel:0909986715 (媒體專訪用)
 ![Alt text](https://www.chia.net/img/chia_logo.svg)
 | Current Release/main | Development Branch/dev |
 |         :---:          |          :---:         |
