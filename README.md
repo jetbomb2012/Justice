@@ -1,4 +1,7 @@
 # <司法官違法庇護案件, 已東窗事發, 應付出應得之代價>
+# 一. 顏大和 (時任高檢署檢察長)
+# 二. 柯怡如 (時任桃園地檢署檢察官)
+# 三. 其它協同不法司法官
 # Email: jetbomb2012@gmail.com ; Tel:0909986715 (媒體專用)
 # 彭恢華 ( MCSD-2002 , MBA-NTPU )
 ![Alt text](https://www.chia.net/img/chia_logo.svg)
