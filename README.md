@@ -1,4 +1,4 @@
-# 證據下載 ![Alt text](https://www.chia.net/img/chia_logo.svg)<img src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" /> 選舉制度與司法庇護:關係全民利益
+# 證據下載 alt="interactive connection" width="45" /> 選舉制度與司法庇護:關係全民利益
 
 # <司法官違法庇護95年選舉案件, 已東窗事發, 應付出代價>
 # 一. 顏大和 (時任高檢署檢察長)
