@@ -1,4 +1,4 @@
-#  若不打擊司法高官, 是白幹活, 弊出於庇護與私交加上選擇正義!
+#  若不打擊違法高官, 是白幹活, 弊出於庇護與私交加上選擇正義!
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/p001.jpg" target="_blank">證據一</a>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/p002.jpg" target="_blank">證據二</a>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/p003.jpg" target="_blank">證據三</a>
