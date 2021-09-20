@@ -9,7 +9,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/P008.jpg" target="_blank">桃選會二</a> 
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/p0010.jpg" target="_blank">中選會一</a> 
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/p0011.jpg" target="_blank">中選會二</a> 
-<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/p0012.jpg" target="_blank">偵辦書狀成罪證</a>
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/p0012.zip" target="_blank">偵辦書狀成罪證</a>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/p0013.zip" target="_blank">新事證下載</a>
 # 證據下載!<img src="https://html-online.com/img/01-interactive-connection.png"  alt="interactive connection" width="45" /> 選舉制度與司法庇護,因案設人事:關係全民利益!
 
