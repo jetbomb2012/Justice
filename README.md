@@ -1,3 +1,4 @@
+# 都已東窗事發了, 仍負隅頑抗 , 欺人太
 #  這年頭還有啥事能瞞的, youtube 開講準備中, 貢獻本人對國人司法正義的小小的力量!
 #  若不打擊違法高官, 是白幹活, 弊出於庇護與私交加上選擇正義!
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/p001.jpg" target="_blank">證據一</a>
