@@ -10,7 +10,7 @@
 # 中華民國一一一年四月二十七日星期三
 # ( 本件本人授權司法人員保存光碟證物備分，以利後續偵辦 )
 # http ://jetbomb.xyz ( 依已聲明證人保護法案件後續辧理 )
-Email address: jetbomb2012@gmail.com
+# Email: jetbomb2012@gmail.com
 
 # 指定管轄通報 
 
