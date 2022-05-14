@@ -1,7 +1,7 @@
 
 # 指定管轄通報 
-<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/p0001.jpg" target="_blank">最高法院回覆超連結一</a>
-<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/p0002.jpg" target="_blank">最高法院回覆超連結二</a>
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/p0003.jpg" target="_blank">最高法院回覆超連結一</a>
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/p0004.jpg" target="_blank">最高法院回覆超連結二</a>
 #  受文者: 高等法院 ( 選舉案專屬法院之上級機關 )
 #  發文日期: 中華民國一一○年十二月十四日星期二
 #  主旨: 選舉案件為專屬法院權責管轄案件﹐有防礙法院管轄權之情
