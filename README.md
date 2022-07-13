@@ -1,7 +1,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/007.zip" target="_blank">司法官弊案下載007.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0071.zip" target="_blank">非法取得管轄權而為之書狀0071.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">最高行政法院0072.zip</a><br>
-# 重大司法弊案發佈通知(桃檢,高檢及桃院系統性作業)
+# 重大司法弊案發佈通知(桃檢,高檢及桃院系統性舞弊作業)
 # 發佈人: 彭恢華
 # 事由: 東窗已事發，業已具光碟書證發佈( 障眼手法已掲露 )
 # 一、95年5月桃園地檢署辦理一宗選舉舞弊案，涉隱匿公務人員職司選務監督職務、及行為事證，以獲管轄權力，
