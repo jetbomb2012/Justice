@@ -1,7 +1,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0074.zip" target="_blank">王宗堂身分及其違法行為</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0073.zip" target="_blank">檢察總長下命移轉管轄0073.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/007.zip" target="_blank">顏大和等司法官弊案下載007.zip</a><br>
-<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0071.zip" target="_blank">非法取得管轄權而於法無效書狀0071.zip</a><br>
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0071.zip" target="_blank">非法取得管轄權而於法無效處分書狀0071.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">最高行政法院0072.zip</a><br>
 # 重大司法弊案發佈通知(桃檢,高檢及桃院系統性舞弊作業)
 # 發佈人: 彭恢華
