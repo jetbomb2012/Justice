@@ -1,4 +1,4 @@
-<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0075.zip" target="_blank">桃選會95年公開資訊(桃檢掩護中)</a><br>
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0075.zip" target="_blank">桃選會95年公開資訊</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0074.zip" target="_blank">王宗堂身分及其違法行為</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0073.zip" target="_blank">檢察總長下命移轉管轄0073.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/007.zip" target="_blank">顏大和等司法官弊案下載007.zip</a><br>
