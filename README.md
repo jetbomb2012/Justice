@@ -5,7 +5,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0071.zip" target="_blank">非法取得管轄權而於法無效處分書狀0071.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">最高行政法院0072.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">監察院點名高院不移轉0076.zip</a><br>
-# 證   據 (王宗堂選務身分光碟)   補充狀   (適時審判)
+# 證   據 (王宗堂選務身分光碟)   補充狀   (選舉案件優先他案件審理)
 # 補充人: 彭恢華 ( https://jetbomb.xyz)
 # 桃園市大溪區介壽路211巷35弄192號
 # 主旨: 依王員選務職務行為，認涉有「選舉無效」部分！
