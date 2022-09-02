@@ -2,7 +2,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0074.zip" target="_blank">王宗堂身分(縣長代理人)及其違法行為</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0073.zip" target="_blank">檢察總長下命移轉管轄0073.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/007.zip" target="_blank">顏大和等司法官弊案下載007.zip</a><br>
-<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0071.zip" target="_blank">不法管轄權而為無效處分書狀0071.zip</a><br>
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0071.zip" target="_blank">不法管轄而為無效處分書狀0071.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">最高行政法院0072.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">監察院點名高院不移轉0076.zip</a><br>
 # 證據(王宗堂選務身分光碟)補充狀(陳雪玉法官也隱匿王員身分)
