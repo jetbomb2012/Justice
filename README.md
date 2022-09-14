@@ -5,7 +5,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0071.zip" target="_blank">不法管轄而為無效處分書狀0071.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">最高行政法院0072.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">監察院點名高院不移轉0076.zip</a><br>
-# 隱匿王宗堂身分之司法官, 涉受有不法人事上之不當利益!
+# 隱匿王宗堂身分之司法官, 涉及受有不法人事上之不當利益!
 # 證據(王宗堂選務身分光碟)補充狀(陳雪玉法官也隱匿王員身分)
 # 補充人: 彭恢華 ( https://jetbomb.xyz)
 # 桃園市大溪區介壽路211巷35弄192號
