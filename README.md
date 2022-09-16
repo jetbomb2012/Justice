@@ -5,7 +5,8 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0071.zip" target="_blank">不法管轄而為無效處分書狀0071.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">最高行政法院0072.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">監察院點名高院不移轉0076.zip</a><br>
-# 隱匿王宗堂身分之司法官, 涉有不當得利情況!召告全國同胞書
+# 隱匿王宗堂身分之司法官, 涉有不當得利情況!
+# 召告全國同胞書
 # 主旨: 民主制度選舉為台灣基石，今操控於政黨高層
 # 及司法高層，上下交相賊之手， 然全國同胞
 # 之神聖投票， 流於形式而無實益。
