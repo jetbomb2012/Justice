@@ -7,7 +7,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">監察院點名高院不移轉0076.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0077.zip" target="_blank">憲法法庭回覆監察院0077.zip</a><br>
 # 重大訊息發佈: http://jetbomb.xyz
-# 手法: 不法管轄侵官利用違法程序並隱匿不法於檢察體系內!
+# 手法: 不法管轄,利用違法程序並隱匿不法於檢察體系內!
 
 
 <a href="mailto:jetbomb2012@gmail.com">jetbomb2012@gmail.com</a>
