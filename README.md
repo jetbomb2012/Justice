@@ -4,7 +4,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/007.zip" target="_blank">顏大和等司法官弊案下載007.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0071.zip" target="_blank">不法管轄而為無效處分書狀0071.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">最高行政法院0072.zip</a><br>
-<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">監察院點名高院不移轉顯然有誤, 實則為非常上訴不作為撤銷不法程序0076.zip</a><br>
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">監察院點名高院不移轉 0076.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0077.zip" target="_blank">憲法法庭回覆監察院0077.zip</a><br>
 # 重大訊息發佈: http://jetbomb.xyz
 # 手法一:高檢署顏大和等司法官積極職權不法管轄,侵官利用違法管轄程序隱匿身分及選舉行為不法於檢察體系內而續為不法做成確認書狀處分以掩非法!  ( 問題在於非法管轄續而為不法書狀處分無效, 然回覆不合非常上訴要件之說係避稱違法程序(380條), 實未為認事:非法程序後致生非法之結果影響, 違法程序撤銷自為非常上訴之法定明文要件!撤銷不法程序有其必要以維護權利保護必要之後續民事, 行政, 刑事, 國賠等專屬管轄訴訟之進行程序(以不起訴處分隱匿不法吃掉所有其它案件)! 而本件未經桃園選舉法院合議審理程序已明!)
