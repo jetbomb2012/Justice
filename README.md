@@ -7,7 +7,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">監察院點名高院不移轉 0076.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0077.zip" target="_blank">憲法法庭回覆監察院0077.zip</a><br>
 # 重大訊息發佈: http://jetbomb.xyz
-# 手法一:高檢署顏大和等司法官積極職權不法管轄,侵官利用違法管轄程序隱匿身分及選舉行為不法於檢察體系內而續為不法做成確認書狀處分以掩非法!   而本件未經桃園選舉法院合議審理程序已明!)
+# 手法一:高檢署顏大和等司法官積極職權不法管轄,侵官利用違法管轄程序隱匿選務身分及選舉行為不法於檢察體系內而續為不法做成確認書狀處分以掩非法!   而本件未經桃園選舉法院合議審理程序已明!)
 
 
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/非常上訴不合要件1.jpeg" target="_blank">非常上訴不合要件1.jepg</a><br>
