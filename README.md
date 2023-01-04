@@ -8,8 +8,9 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0077.zip" target="_blank">憲法法庭回覆監察院0077.zip</a><br>
 # 重大訊息發佈: http://jetbomb.xyz
 # 手法:職權不法管轄,利用違法管轄程序隱匿不法於檢察體系內! 就程序上看: 顏大和賭定認為自己會成為總長! 因只有檢察總長能成為非常上訴撤銷違法訴訟程序之唯一! 
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/非常上訴不合要件1.jpg" target="_blank">非常上訴不合要件1.jpg</a><br>
 
-
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/非常上訴不合要件2.jpg" target="_blank">非常上訴不合要件2.jpg</a><br>
 <a href="mailto:jetbomb2012@gmail.com">jetbomb2012@gmail.com</a>
 
 # 非 常 上 訴  
