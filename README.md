@@ -17,7 +17,8 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄02.jpeg" target="_blank">顏大和抗命不移管轄02.jpg</a><br>
 
 <a href="mailto:jetbomb2012@gmail.com">jetbomb2012@gmail.com</a>
-# 聲明: 違反專屬法院管轄續而違法不起訴等書狀授權立委揭露不法使用, 不受偵查不公開約束 
+# 聲明: 
+# 違反專屬法院管轄續而違法不起訴等書狀授權立委揭露不法使用, 不受偵查不公開約束 
 # 非 常 上 訴  
 # 上訴人: 彭恢華 
 # 非常上訴事項：刑事訴訟法第380條反面解釋:
