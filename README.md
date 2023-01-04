@@ -13,7 +13,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄01.jpeg" target="_blank">顏大和抗命不移管轄01.jpg</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄02.jpeg" target="_blank">顏大和抗命不移管轄02.jpg</a><br>
 
-<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/憲法法庭未依聲請意旨不受理.jpeg" target="_blank">憲法法庭未依聲請意旨不受理.jpg</a><br>
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/憲法法庭未依聲請意旨不受理.jpeg" target="_blank">憲法法庭未依聲請意旨不受理.jpeg</a><br>
 
 <a href="mailto:jetbomb2012@gmail.com">jetbomb2012@gmail.com</a>
 # 憲法法庭案件          補充理由狀
