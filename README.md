@@ -9,7 +9,7 @@
 # 重大訊息發佈: http://jetbomb.xyz
 # 手法一:積極職權不法管轄,利用違法管轄程序隱匿不法於檢察體系內而為不法確認書狀處分! 就程序上看: 顏大和賭定認為自己會成為總長! 因只有檢察總長能成為非常上訴撤銷違法訴訟程序之唯一! ( 問題在非法管轄續而為不法書狀處分, 不合非常上訴要件之說係倒果為因之謬論, 未為認事)
 
-# 手法二: 未依刑事訴訟法 第 446 條 認為非常上訴無理由者，應以判決駁回之。
+# 手法二: 未依刑事訴訟法 第 446 條 認為非常上訴無理由者，應以判決駁回之。( 已東窗事發, 現行程序為由阻礙之 )
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/非常上訴不合要件1.jpeg" target="_blank">非常上訴不合要件1.jepg</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/非常上訴不合要件2.jpeg" target="_blank">非常上訴不合要件2.jpeg</a><br>
 
