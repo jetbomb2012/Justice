@@ -10,9 +10,6 @@
 # 手法一:桃檢柯怡如檢察官及高檢署顏大和等司法官積極職權不法管轄,侵官利用違法管轄程序隱匿被告選務監督身分及選舉不法行為於檢察體系內而續為不法做成確認書狀處分以掩非法!   而本件未經法規專屬桃園選舉法庭合議審理程序已明! 其它民事, 行政, 刑事, 國賠等專屬法院審理亦受其不法管轄干擾,阻礙!
 
 
-<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/非常上訴不合要件1.jpeg" target="_blank">非常上訴不合要件1.jepg</a><br>
-<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/非常上訴不合要件2.jpeg" target="_blank">非常上訴不合要件2.jpeg</a><br>
-
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄01.jpeg" target="_blank">顏大和抗命不移管轄01.jpg</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄02.jpeg" target="_blank">顏大和抗命不移管轄02.jpg</a><br>
 
