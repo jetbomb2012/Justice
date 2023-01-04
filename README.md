@@ -11,8 +11,8 @@
 
 # 手法二: 未依刑事訴訟法 第 446 條 認為非常上訴無理由者，應以判決駁回之。
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/非常上訴不合要件1.jpeg" target="_blank">非常上訴不合要件1.jepg</a><br>
-
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/非常上訴不合要件2.jpeg" target="_blank">非常上訴不合要件2.jpeg</a><br>
+
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄1.jpeg" target="_blank">顏大和抗命不移管轄1.jepg</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄2.jpeg" target="_blank">顏大和抗命不移管轄2.jpeg</a><br>
 
