@@ -13,6 +13,8 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/非常上訴不合要件1.jpeg" target="_blank">非常上訴不合要件1.jepg</a><br>
 
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/非常上訴不合要件2.jpeg" target="_blank">非常上訴不合要件2.jpeg</a><br>
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄1.jpeg" target="_blank">顏大和抗命不移管轄1.jepg</a><br>
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄2.jpeg" target="_blank">顏大和抗命不移管轄2.jpeg</a><br>
 
 <a href="mailto:jetbomb2012@gmail.com">jetbomb2012@gmail.com</a>
 
