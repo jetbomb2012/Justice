@@ -13,7 +13,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄01.jpeg" target="_blank">顏大和抗命不移管轄01.jpg</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄02.jpeg" target="_blank">顏大和抗命不移管轄02.jpg</a><br>
 
-<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/憲法法庭未依聲請意旨不受理.jpeg" target="_blank">憲法法庭誤認聲請意旨不受理違憲.jpeg</a><br>
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/憲法法庭未依聲請意旨不受理.jpeg" target="_blank">憲法法庭誤認聲請意旨據而不受理違憲.jpeg</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/03.jpeg" target="_blank">聲請比對聲請理由要旨.jpeg</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/04.jpeg" target="_blank">請監察院協力比對聲請意旨.jpeg</a><br>
 
