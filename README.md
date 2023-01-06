@@ -20,7 +20,7 @@
 # 備註: 
 # 本件先違憲, 然後製做不起訴書狀掩護不法, 顏大和, 
 # 柯怡如, 桃院交付審判等司法官上下交相賊!
-# 目的在掩護並確保掩護成果!
+# 目的在掩護並確保掩護成果! (被長官識破)
 
 
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄01.jpeg" target="_blank">顏大和抗命不移管轄01.jpg</a><br>
