@@ -27,6 +27,7 @@
 # 1.請憲法法庭更正(重提). 
 # 2.請最高法院檢察署更正(重提)
 # 這二單位誤認要旨, 由監察院及立法委員監督!
+# 標的: 違反管轄, 侵害選舉法院三人權限,程序違法違憲! 
 
 
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄01.jpeg" target="_blank">顏大和抗命不移管轄01.jpg</a><br>
