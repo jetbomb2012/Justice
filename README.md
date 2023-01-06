@@ -23,6 +23,8 @@
 # (侵害專屬選舉法庭三人合議法院之權)
 # 目的在掩護並確保掩護成果! (被長官識破, 仍集體裝不懂!)
 
+#  解決之道: 1.請憲法法庭更正(重提). 請最高法院檢察署更正(重提), 這二單位誤認要旨, 由監察院及立法委員監督!
+
 
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄01.jpeg" target="_blank">顏大和抗命不移管轄01.jpg</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄02.jpeg" target="_blank">顏大和抗命不移管轄02.jpg</a><br>
