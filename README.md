@@ -7,7 +7,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">監察院點名高院不移轉 0076.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0077.zip" target="_blank">憲法法庭回覆監察院0077.zip</a><br>
 # 重大訊息發佈: http://jetbomb.xyz
-# 手法一: 選舉案件未經司法選舉法庭審理違法及違憲
+# 手法一: 選舉案件未經選舉法庭審理違法及違憲!(憲法132)
 #  ( 顏大和為誰出手,略施小計,司法全癱瘓, 一個人的司法?)
 # 1.選舉案件未經桃園地方法院選舉庭三人合議審判
 # 2.既無專屬審判權, 竟能偽造違法不起訴書狀(還等同審判確定)
