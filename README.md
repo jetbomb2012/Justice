@@ -18,6 +18,7 @@
 # 手法二: 憲法法庭藉故不受理( 誤認聲請解釋主旨 )
 # 綜言之: 違法+ 違法 自不能等同合法! ( 請立法委員看看端倪)
 # 備註: 好歹也要看看檢方為不起訴書狀前, 有無因不法而做成吧!
+# 至少在檢方不起訴書狀前要有毫無懷疑的不違法確定為條件, 否則大漏洞!
 
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄01.jpeg" target="_blank">顏大和抗命不移管轄01.jpg</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/顏大和抗命不移管轄02.jpeg" target="_blank">顏大和抗命不移管轄02.jpg</a><br>
