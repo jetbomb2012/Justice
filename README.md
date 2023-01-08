@@ -6,7 +6,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">最高行政法院0072.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">監察院點名高院不移轉 0076.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0077.zip" target="_blank">憲法法庭回覆監察院0077.zip</a><br>
-# 重大訊息發佈: http://jetbomb.xyz
+# 重大訊息發佈: http://jetbomb.xyz (更嚴重的石木欽們)
 # 手法一: 選舉案件未經選舉法庭審理違法及違憲(憲法132),
 # 1.檢方用刑法方式隱匿涉案人王宗堂選務監督身分(行為)
 #  故案為選舉無效之訴, 檢方未為起訴!
