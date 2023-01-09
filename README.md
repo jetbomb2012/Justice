@@ -7,6 +7,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">監察院點名高院不移轉 0076.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0077.zip" target="_blank">憲法法庭回覆監察院0077.zip</a><br>
 # 重大訊息發佈: http://jetbomb.xyz (更嚴重的石木欽們)
+# 運用偵察不公開,隱匿不法, 以突破憲法!(顏大和手法)
 # 手法一: 選舉案件未經選舉法庭審理違法及違憲(憲法132)
 # 1.檢方用刑法方式隱匿涉案人王宗堂職司選務監督身分(行為)
 #  (1)故本案涉選務為選舉無效之訴, 檢方未為起訴於選舉法庭!
