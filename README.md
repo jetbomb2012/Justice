@@ -6,7 +6,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">最高行政法院0072.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">監察院點名高院不移轉 0076.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0077.zip" target="_blank">憲法法庭回覆監察院0077.zip</a><br>
-<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0078.zip" target="_blank">憲法法庭造假,移花接木,倒果為因手法, 聲請解釋選舉案未經管轄法院, 竟解釋偽造之不起訴書狀</a><br>
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0078.zip" target="_blank">憲法法庭未認事, 管轄程序違憲, 竟解釋偽造之不起訴書狀實體, 顯然規避!</a><br>
 # 重大訊息發佈: http://jetbomb.xyz (更嚴重的石木欽們)
 # 運用偵察不公開,隱匿不法, 以突破憲法!(顏大和手法)
 # 手法一: 選舉案件未經選舉法庭審理違法及違憲(憲法132)
