@@ -6,7 +6,7 @@
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">最高行政法院0072.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0072.zip" target="_blank">監察院點名高院不移轉 0076.zip</a><br>
 <a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0077.zip" target="_blank">憲法法庭回覆監察院0077.zip</a><br>
-<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0078.zip" target="_blank">憲法法庭未認事, 管轄程序違憲, 竟解釋偽造之不起訴書狀實體, 顯然規避聲請意旨!(還行使偽造書狀)</a><br>
+<a href="https://github.com/jetbomb2012/jetbomb-xyz.github.io/blob/main/0078.zip" target="_blank">憲法法庭未認事, 管轄程序違憲, 竟解釋偽造之不起訴書狀實體, 顯然規避聲請意旨!(為偽造書狀背書?)</a><br>
 # 重大訊息發佈: http://jetbomb.xyz (更嚴重的石木欽們)
 # 利用偵察不公開,隱匿不法, 以突破憲法明文!(顏大和手法)
 # 王宗堂(縣長代理人),人別訊問時,檢察官及法官都應已知悉了!
