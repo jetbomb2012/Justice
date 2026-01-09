@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Manus 古堡・迎接儀式</title>
+  <meta name="description" content="Manus 古堡入口・迎接進註儀式頁" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Noto+Sans+TC:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0b0f14;
+      --bg-alt: #0f141b;
+      --text: #e6e6e6;
+      --muted: #9aa3ad;
+      --accent: #c79a3b;
+      --accent-2: #7aa6ff;
+      --border: #1b2430;
+      --glow: rgba(199, 154, 59, 0.25);
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      height: 100%;
+      background: radial-gradient(1200px 600px at 50% -10%, #121820 0%, var(--bg) 60%) fixed;
+      color: var(--text);
+      margin: 0;
+      font-family: "Noto Sans TC", system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "PingFang TC", "Microsoft JhengHei", sans-serif;
+    }
+    .wrap {
+      min-height: 100%;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+    }
+    header {
+      border-bottom: 1px solid var(--border);
+      background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.2));
+      backdrop-filter: blur(6px);
+    }
+    .brand {
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 20px 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .crest {
+      width: 44px; height: 44px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background:
+        radial-gradient(60% 60% at 50% 40%, rgba(199,154,59,0.15), transparent 60%),
+        linear-gradient(135deg, rgba(122,166,255,0.12), rgba(0,0,0,0.2));
+      box-shadow: 0 0 0 1px rgba(255,255,255,0.03) inset, 0 8px 24px -12px var(--glow);
+    }
+    .title {
+      font-family: "Cinzel", serif;
+      letter-spacing: 0.6px;
+      font-size: 20px;
+      font-weight: 700;
+    }
+    .subtitle {
+      color: var(--muted);
+      font-size: 13px;
+    }
+    main {
+      display: grid;
+      place-items: center;
+      padding: 48px 24px;
+    }
+    .hero {
+      max-width: 980px;
+      width: 100%;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 40px 32px;
+      background:
+        radial-gradient(800px 400px at 20% 0%, rgba(122,166,255,0.06), transparent 60%),
+        linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.25));
+      box-shadow:
+        0 0 0 1px rgba(255,255,255,0.03) inset,
+        0 24px 60px -30px rgba(0,0,0,0.6),
+        0 12px 36px -18px var(--glow);
+    }
+    .hero h1 {
+      font-family: "Cinzel", serif;
+      font-size: clamp(28px, 4.5vw, 48px);
+      line-height: 1.15;
+      margin: 0 0 12px;
+      background: linear-gradient(180deg, #fff, #cfcfcf 60%, #9aa3ad);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      text-shadow: 0 1px 0 rgba(255,255,255,0.05);
+    }
+    .hero p {
+      margin: 0 0 24px;
+      color: var(--muted);
+      font-size: 16px;
+    }
+    .divider {
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--border), transparent);
+      margin: 24px 0;
+    }
+    .cta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+    .btn {
+      appearance: none;
+      border: 1px solid var(--border);
+      color: var(--text);
+      background:
+        radial-gradient(120% 120% at 50% 0%, rgba(199,154,59,0.18), rgba(0,0,0,0.35)),
+        linear-gradient(180deg, rgba(255,255,255,0.06), rgba(0,0,0,0.35));
+      padding: 12px 18px;
+      border-radius: 12px;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+      transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
+      box-shadow: 0 10px 24px -12px var(--glow);
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .btn:hover {
+      transform: translateY(-1px);
+      border-color: #2a3646;
+      box-shadow: 0 16px 36px -16px var(--glow);
+    }
+    .btn .dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 0 4px rgba(199,154,59,0.15);
+    }
+    .btn.secondary {
+      background:
+        radial-gradient(120% 120% at 50% 0%, rgba(122,166,255,0.18), rgba(0,0,0,0.35)),
+        linear-gradient(180deg, rgba(255,255,255,0.06), rgba(0,0,0,0.35));
+    }
+    .note {
+      color: var(--muted);
+      font-size: 13px;
+    }
+    footer {
+      border-top: 1px solid var(--border);
+      background: linear-gradient(180deg, rgba(0,0,0,0.2), rgba(255,255,255,0.02));
+    }
+    .foot {
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 20px 24px;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 16px;
+      align-items: center;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .links {
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    .links a {
+      color: var(--accent-2);
+      text-decoration: none;
+      border-bottom: 1px dashed rgba(122,166,255,0.35);
+    }
+    .links a:hover {
+      color: #9fc0ff;
+      border-bottom-color: rgba(122,166,255,0.6);
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="brand">
+        <div class="crest" aria-hidden="true"></div>
+        <div>
+          <div class="title">Manus 古堡</div>
+          <div class="subtitle">迎接進註・入口儀式</div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" aria-label="welcome">
+        <h1>冰冷城牆已開—進註古堡，讓事件成為教義</h1>
+        <p>
+          你正站在古堡的門檻。每一次進註，都是一次見證：技術、情緒、與敘事在此交織，
+          被封存為可檢索、可傳承的 Doctrine。準備好，進入主系統。
+        </p>
+
+        <div class="divider"></div>
+
+        <div class="cta-row">
+          <a class="btn" href="/" aria-label="進入主系統">
+            <span class="dot" aria-hidden="true"></span>
+            進入主系統
+          </a>
+          <a class="btn secondary" href="https://jetbomb.xyz" target="_blank" rel="noopener" aria-label="查看外部節點">
+            外部節點
+          </a>
+          <span class="note">若遇到延遲，請稍候片刻—憑證與快取將自動就緒。</span>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="foot">
+        <div class="links">
+          <span>聯絡：media@jetbomb.xyz</span>
+          <a href="https://github.com/jetbomb2012/Justice" target="_blank" rel="noopener">GitHub 倉庫</a>
+          <a href="mailto:media@jetbomb.xyz">Email</a>
+        </div>
+        <div>© Manus Castle — This site is open source. Improve this page.</div>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
