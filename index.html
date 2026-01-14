@@ -82,6 +82,7 @@
         0 0 0 1px rgba(255,255,255,0.03) inset,
         0 24px 60px -30px rgba(0,0,0,0.6),
         0 12px 36px -18px var(--glow);
+      text-align: center;
     }
     .hero h1 {
       font-family: "Cinzel", serif;
@@ -109,6 +110,7 @@
       flex-wrap: wrap;
       gap: 12px;
       align-items: center;
+      justify-content: center;
     }
     .btn {
       appearance: none;
@@ -177,53 +179,15 @@
       color: #9fc0ff;
       border-bottom-color: rgba(122,166,255,0.6);
     }
-  </style>
-</head>
-<body>
-  <div class="wrap">
-    <header>
-      <div class="brand">
-        <div class="crest" aria-hidden="true"></div>
-        <div>
-          <div class="title">Manus 古堡</div>
-          <div class="subtitle">迎接進註・入口儀式</div>
-        </div>
-      </div>
-    </header>
 
-    <main>
-      <section class="hero" aria-label="welcome">
-        <h1>冰冷城牆已開—進註古堡，讓事件成為教義</h1>
-        <p>
-          你正站在古堡的門檻。每一次進註，都是一次見證：技術、情緒、與敘事在此交織，
-          被封存為可檢索、可傳承的 Doctrine。準備好，進入主系統。
-        </p>
-
-        <div class="divider"></div>
-
-        <div class="cta-row">
-          <a class="btn" href="/" aria-label="進入主系統">
-            <span class="dot" aria-hidden="true"></span>
-            進入主系統
-          </a>
-          <a class="btn secondary" href="https://jetbomb.xyz" target="_blank" rel="noopener" aria-label="查看外部節點">
-            外部節點
-          </a>
-          <span class="note">若遇到延遲，請稍候片刻—憑證與快取將自動就緒。</span>
-        </div>
-      </section>
-    </main>
-
-    <footer>
-      <div class="foot">
-        <div class="links">
-          <span>聯絡：media@jetbomb.xyz</span>
-          <a href="https://github.com/jetbomb2012/Justice" target="_blank" rel="noopener">GitHub 倉庫</a>
-          <a href="mailto:media@jetbomb.xyz">Email</a>
-        </div>
-        <div>© Manus Castle — This site is open source. Improve this page.</div>
-      </div>
-    </footer>
-  </div>
-</body>
-</html>
+    /* 水晶球播放器樣式 */
+    .player-box {
+      width: 420px;
+      height: 420px;
+      border-radius: 50%;
+      margin: 40px auto;
+      background: radial-gradient(circle at center, #88f 30%, #000 100%);
+      box-shadow: 0 0 40px rgba(0, 200, 255, 0.7);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
