@@ -4,184 +4,55 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Manus 古堡・迎接儀式 + 電影展</title>
-  <meta name="description" content="Manus 古堡入口・迎接進註儀式與古堡電影展" />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Noto+Sans+TC:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet">
   <style>
-    :root {
-      --bg: #0b0f14;
-      --bg-alt: #0f141b;
-      --text: #e6e6e6;
-      --muted: #9aa3ad;
-      --accent: #c79a3b;
-      --accent-2: #7aa6ff;
-      --border: #1b2430;
-      --glow: rgba(199, 154, 59, 0.25);
-    }
-    * { box-sizing: border-box; }
-    html, body {
-      height: 100%;
-      background: radial-gradient(1200px 600px at 50% -10%, #121820 0%, var(--bg) 60%) fixed;
-      color: var(--text);
+    body {
       margin: 0;
-      font-family: "Noto Sans TC", system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "PingFang TC", "Microsoft JhengHei", sans-serif;
-    }
-    .wrap {
-      min-height: 100%;
-      display: grid;
-      grid-template-rows: auto 1fr auto;
+      background: radial-gradient(1200px 600px at 50% -10%, #121820 0%, #0b0f14 60%) fixed;
+      color: #e6e6e6;
+      font-family: "Noto Sans TC", sans-serif;
     }
     header {
-      border-bottom: 1px solid var(--border);
+      padding: 20px 24px;
+      border-bottom: 1px solid #1b2430;
       background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.2));
       backdrop-filter: blur(6px);
     }
-    .brand {
-      max-width: 1080px;
-      margin: 0 auto;
-      padding: 20px 24px;
-      display: flex;
-      align-items: center;
-      gap: 16px;
-    }
-    .crest {
-      width: 44px; height: 44px;
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      background:
-        radial-gradient(60% 60% at 50% 40%, rgba(199,154,59,0.15), transparent 60%),
-        linear-gradient(135deg, rgba(122,166,255,0.12), rgba(0,0,0,0.2));
-      box-shadow: 0 0 0 1px rgba(255,255,255,0.03) inset, 0 8px 24px -12px var(--glow);
-    }
     .title {
       font-family: "Cinzel", serif;
-      letter-spacing: 0.6px;
-      font-size: 20px;
+      font-size: 24px;
       font-weight: 700;
-    }
-    .subtitle {
-      color: var(--muted);
-      font-size: 13px;
+      letter-spacing: 0.6px;
     }
     main {
+      padding: 48px 24px;
       display: grid;
       place-items: center;
-      padding: 48px 24px;
     }
     .hero {
       max-width: 980px;
       width: 100%;
-      border: 1px solid var(--border);
+      border: 1px solid #1b2430;
       border-radius: 16px;
       padding: 40px 32px;
-      background:
-        radial-gradient(800px 400px at 20% 0%, rgba(122,166,255,0.06), transparent 60%),
-        linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.25));
-      box-shadow:
-        0 0 0 1px rgba(255,255,255,0.03) inset,
-        0 24px 60px -30px rgba(0,0,0,0.6),
-        0 12px 36px -18px var(--glow);
+      background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.25));
+      box-shadow: 0 24px 60px -30px rgba(0,0,0,0.6);
       text-align: center;
       margin-bottom: 40px;
     }
     .hero h1 {
       font-family: "Cinzel", serif;
       font-size: clamp(28px, 4.5vw, 48px);
-      line-height: 1.15;
-      margin: 0 0 12px;
+      margin-bottom: 12px;
       background: linear-gradient(180deg, #fff, #cfcfcf 60%, #9aa3ad);
       -webkit-background-clip: text;
       background-clip: text;
       color: transparent;
-      text-shadow: 0 1px 0 rgba(255,255,255,0.05);
     }
     .hero p {
-      margin: 0 0 24px;
-      color: var(--muted);
       font-size: 16px;
+      color: #9aa3ad;
     }
-    .divider {
-      height: 1px;
-      background: linear-gradient(90deg, transparent, var(--border), transparent);
-      margin: 24px 0;
-    }
-    .cta-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-      align-items: center;
-      justify-content: center;
-    }
-    .btn {
-      appearance: none;
-      border: 1px solid var(--border);
-      color: var(--text);
-      background:
-        radial-gradient(120% 120% at 50% 0%, rgba(199,154,59,0.18), rgba(0,0,0,0.35)),
-        linear-gradient(180deg, rgba(255,255,255,0.06), rgba(0,0,0,0.35));
-      padding: 12px 18px;
-      border-radius: 12px;
-      font-weight: 600;
-      letter-spacing: 0.3px;
-      transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
-      box-shadow: 0 10px 24px -12px var(--glow);
-      text-decoration: none;
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
-    }
-    .btn:hover {
-      transform: translateY(-1px);
-      border-color: #2a3646;
-      box-shadow: 0 16px 36px -16px var(--glow);
-    }
-    .btn .dot {
-      width: 8px; height: 8px;
-      border-radius: 50%;
-      background: var(--accent);
-      box-shadow: 0 0 0 4px rgba(199,154,59,0.15);
-    }
-    .btn.secondary {
-      background:
-        radial-gradient(120% 120% at 50% 0%, rgba(122,166,255,0.18), rgba(0,0,0,0.35)),
-        linear-gradient(180deg, rgba(255,255,255,0.06), rgba(0,0,0,0.35));
-    }
-    .note {
-      color: var(--muted);
-      font-size: 13px;
-    }
-    footer {
-      border-top: 1px solid var(--border);
-      background: linear-gradient(180deg, rgba(0,0,0,0.2), rgba(255,255,255,0.02));
-    }
-    .foot {
-      max-width: 1080px;
-      margin: 0 auto;
-      padding: 20px 24px;
-      display: grid;
-      grid-template-columns: 1fr auto;
-      gap: 16px;
-      align-items: center;
-      color: var(--muted);
-      font-size: 14px;
-    }
-    .links {
-      display: flex;
-      gap: 14px;
-      flex-wrap: wrap;
-    }
-    .links a {
-      color: var(--accent-2);
-      text-decoration: none;
-      border-bottom: 1px dashed rgba(122,166,255,0.35);
-    }
-    .links a:hover {
-      color: #9fc0ff;
-      border-bottom-color: rgba(122,166,255,0.6);
-    }
-
-    /* 水晶球播放器樣式 */
     .player-box {
       width: 420px;
       height: 420px;
@@ -195,3 +66,87 @@
       justify-content: center;
       overflow: hidden;
       text-align: center;
+      padding: 10px;
+    }
+    h2 {
+      margin: 10px 0;
+      font-size: 16px;
+      color: #ffdc00;
+    }
+    video {
+      width: 95%;
+      height: 95%;
+      border-radius: 50%;
+      box-shadow: 0 0 20px rgba(255,255,255,0.5);
+    }
+    footer {
+      padding: 20px;
+      text-align: center;
+      font-size: 14px;
+      color: #9aa3ad;
+      border-top: 1px solid #1b2430;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="title">Manus 古堡迎接儀式</div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>歡迎進入古堡</h1>
+      <p>這裡是進註儀式的起點，所有事件都將被封存為 Doctrine。</p>
+    </section>
+
+    <section class="hero">
+      <h1>古堡電影展區</h1>
+      <p>水晶球框將隨機輪播影片，每一部都是一次見證。</p>
+
+      <div class="player-box">
+        <h2 id="info"></h2>
+        <video id="autoVideo" controls autoplay muted>
+          <source id="videoSource" src="" type="video/mp4">
+          您的瀏覽器不支援影片播放
+        </video>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    © 2026 Manus Castle. 所有影像皆為 Doctrine 封存節點。
+  </footer>
+
+  <script>
+    const totalVideos = 17;
+    const video = document.getElementById("autoVideo");
+    const source = document.getElementById("videoSource");
+
+    function getRandomIndex(exclude) {
+      let idx;
+      do {
+        idx = Math.floor(Math.random() * totalVideos) + 1;
+      } while (idx === exclude);
+      return idx;
+    }
+
+    function playVideo(index) {
+      const file = `foxokiso-C3-${index}.mp4`;
+      source.src = file;
+      video.load();
+      video.play().catch(err => console.log("播放失敗:", err));
+      document.getElementById("info").innerText =
+        `現在播放的是第 ${index} 部影片：${file}`;
+    }
+
+    let currentIndex = 1;
+    playVideo(currentIndex);
+
+    video.addEventListener("ended", () => {
+      currentIndex = getRandomIndex(currentIndex);
+      playVideo(currentIndex);
+    });
+  </script>
+</body>
+</html>
+
