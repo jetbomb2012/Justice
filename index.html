@@ -1,152 +1,280 @@
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Manus 古堡・迎接儀式 + 電影展</title>
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#090b0e">
+  <meta name="description" content="古堡典藏電影殿堂：珍藏影像、故事與時光。">
+  <title>古堡典藏電影殿堂｜Castle Cinema</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
   <style>
+    :root {
+      color-scheme: dark;
+      --bg: #090b0e;
+      --panel: #11161c;
+      --panel-soft: #171d24;
+      --gold: #c9a96e;
+      --gold-bright: #ead4a3;
+      --text: #f1eee7;
+      --muted: #9ba3ad;
+      --line: rgba(201,169,110,.24);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
     body {
-      margin: 0;
-      background: radial-gradient(1200px 600px at 50% -10%, #121820 0%, #0b0f14 60%) fixed;
-      color: #e6e6e6;
+      margin: 0; min-height: 100vh; color: var(--text);
       font-family: "Noto Sans TC", sans-serif;
+      background:
+        radial-gradient(ellipse at 50% -18%, rgba(120,91,49,.22), transparent 42%),
+        linear-gradient(180deg, #0d1116 0%, var(--bg) 62%);
     }
+    a { color: inherit; text-decoration: none; }
+    .topline { height: 3px; background: linear-gradient(90deg, transparent, var(--gold), #f0dfb5, var(--gold), transparent); }
     header {
-      padding: 20px 24px;
-      border-bottom: 1px solid #1b2430;
-      background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.2));
-      backdrop-filter: blur(6px);
+      position: sticky; top: 0; z-index: 10;
+      border-bottom: 1px solid var(--line);
+      background: rgba(9,11,14,.88); backdrop-filter: blur(16px);
     }
-    .title {
-      font-family: "Cinzel", serif;
-      font-size: 24px;
-      font-weight: 700;
-      letter-spacing: 0.6px;
+    .nav {
+      width: min(1180px, calc(100% - 40px)); min-height: 76px; margin: auto;
+      display: flex; align-items: center; justify-content: space-between; gap: 20px;
     }
-    main {
-      padding: 48px 24px;
-      display: grid;
-      place-items: center;
+    .brand { display: flex; align-items: center; gap: 13px; }
+    .crest {
+      width: 43px; height: 43px; display: grid; place-items: center;
+      border: 1px solid var(--gold); color: var(--gold-bright);
+      font-family: Cinzel, serif; font-size: 22px; transform: rotate(45deg);
     }
-    .hero {
-      max-width: 980px;
-      width: 100%;
-      border: 1px solid #1b2430;
-      border-radius: 16px;
-      padding: 40px 32px;
-      background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.25));
-      box-shadow: 0 24px 60px -30px rgba(0,0,0,0.6);
-      text-align: center;
-      margin-bottom: 40px;
+    .crest span { transform: rotate(-45deg); }
+    .brand-name { font-family: Cinzel, "Noto Sans TC", serif; font-weight: 700; letter-spacing: 2px; }
+    .brand-sub { display: block; margin-top: 3px; color: var(--muted); font-size: 10px; letter-spacing: 3px; }
+    .nav-tag { color: var(--gold-bright); font-size: 12px; letter-spacing: 2px; }
+    main { width: min(1180px, calc(100% - 40px)); margin: auto; }
+    .intro { text-align: center; padding: 68px 16px 42px; }
+    .eyebrow { color: var(--gold); font-family: Cinzel, serif; font-size: 12px; letter-spacing: 5px; }
+    h1 { margin: 16px 0 12px; font-family: Cinzel, "Noto Sans TC", serif; font-size: clamp(30px, 5vw, 54px); font-weight: 600; letter-spacing: 3px; }
+    .intro p { max-width: 650px; margin: auto; color: var(--muted); line-height: 1.9; font-size: 14px; }
+    .ornament { display: flex; align-items: center; justify-content: center; gap: 13px; margin-top: 25px; color: var(--gold); }
+    .ornament:before, .ornament:after { content: ""; width: 68px; height: 1px; background: var(--line); }
+    .cinema {
+      padding: 18px; border: 1px solid var(--line); border-radius: 18px;
+      background: linear-gradient(145deg, rgba(255,255,255,.035), rgba(255,255,255,.008));
+      box-shadow: 0 28px 90px rgba(0,0,0,.48);
     }
-    .hero h1 {
-      font-family: "Cinzel", serif;
-      font-size: clamp(28px, 4.5vw, 48px);
-      margin-bottom: 12px;
-      background: linear-gradient(180deg, #fff, #cfcfcf 60%, #9aa3ad);
-      -webkit-background-clip: text;
-      background-clip: text;
-      color: transparent;
+    .screen-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 5px 5px 17px; }
+    .screen-label { color: var(--gold-bright); font-size: 12px; letter-spacing: 2px; }
+    .live { color: #a9c8a7; font-size: 11px; letter-spacing: 1px; }
+    .live:before { content: ""; display: inline-block; width: 7px; height: 7px; margin-right: 8px; border-radius: 50%; background: #8dbd83; box-shadow: 0 0 10px #8dbd83; }
+    .screen {
+      position: relative; overflow: hidden; aspect-ratio: 16 / 9;
+      display: grid; place-items: center; border-radius: 11px;
+      background: radial-gradient(ellipse at center, #252a30, #050607 72%);
+      border: 1px solid rgba(255,255,255,.09);
     }
-    .hero p {
-      font-size: 16px;
-      color: #9aa3ad;
+    video { display: block; width: 100%; height: 100%; object-fit: contain; background: #050607; }
+    .screen-empty { position: absolute; z-index: 0; text-align: center; color: #8b929b; pointer-events: none; }
+    .screen-empty strong { display: block; color: var(--gold-bright); font-family: Cinzel, serif; font-size: clamp(17px, 3vw, 27px); letter-spacing: 3px; margin-bottom: 8px; }
+    .screen-empty span { font-size: 12px; letter-spacing: 2px; }
+    .screen video:not([src=""]) + .screen-empty { display: none; }
+    .now-playing { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; padding: 17px 3px 13px; }
+    .track-title { font-size: 15px; font-weight: 700; }
+    .track-sub { margin-top: 5px; color: var(--muted); font-size: 11px; letter-spacing: 1px; }
+    .track-number { color: var(--gold); font-family: Cinzel, serif; font-size: 13px; }
+    .controls { display: flex; flex-wrap: wrap; align-items: center; gap: 9px; }
+    button, select {
+      min-height: 40px; padding: 0 15px; border: 1px solid var(--line); border-radius: 7px;
+      color: var(--text); background: #171c22; font: inherit; font-size: 12px; cursor: pointer;
+      transition: .2s ease;
     }
-    .player-box {
-      width: 420px;
-      height: 420px;
-      border-radius: 50%;
-      margin: 40px auto;
-      background: radial-gradient(circle at center, #88f 30%, #000 100%);
-      box-shadow: 0 0 40px rgba(0, 200, 255, 0.7);
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      overflow: hidden;
-      text-align: center;
-      padding: 10px;
+    button:hover, select:hover { border-color: var(--gold); color: var(--gold-bright); transform: translateY(-1px); }
+    button.primary { color: #17120a; border-color: var(--gold); background: linear-gradient(135deg, #e2c991, #b58d50); font-weight: 700; }
+    button.primary:hover { color: #090909; filter: brightness(1.08); }
+    .playlist-section { padding: 48px 0 64px; }
+    .section-heading { display: flex; align-items: end; justify-content: space-between; gap: 20px; margin-bottom: 18px; }
+    .section-heading h2 { margin: 0; font-size: 20px; letter-spacing: 2px; }
+    .section-heading p { margin: 0; color: var(--muted); font-size: 12px; }
+    .playlist { display: grid; grid-template-columns: repeat(8, 1fr); gap: 9px; }
+    .movie {
+      min-height: 68px; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 5px;
+      border: 1px solid rgba(255,255,255,.09); border-radius: 8px; background: rgba(255,255,255,.025);
+      color: var(--muted); cursor: pointer; transition: .2s ease;
     }
-    h2 {
-      margin: 10px 0;
-      font-size: 16px;
-      color: #ffdc00;
+    .movie:hover { border-color: var(--gold); color: var(--gold-bright); background: rgba(201,169,110,.08); }
+    .movie.active { border-color: var(--gold); color: var(--gold-bright); background: rgba(201,169,110,.13); box-shadow: inset 0 0 0 1px rgba(201,169,110,.12); }
+    .movie b { font-family: Cinzel, serif; font-size: 18px; font-weight: 600; }
+    .movie small { font-size: 10px; letter-spacing: 1px; }
+    .closing { margin: 0 0 54px; padding: 27px; text-align: center; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+    .closing p { margin: 0; color: #c4b99f; font-size: 13px; line-height: 2; letter-spacing: 1px; }
+    footer { padding: 25px 20px 32px; border-top: 1px solid var(--line); text-align: center; color: #727b85; font-size: 11px; letter-spacing: 1px; line-height: 2; }
+    @media (max-width: 760px) {
+      .nav { min-height: 66px; width: min(100% - 28px, 1180px); }
+      .nav-tag { display: none; }
+      main { width: min(100% - 26px, 1180px); }
+      .intro { padding: 48px 5px 30px; }
+      .cinema { padding: 10px; border-radius: 13px; }
+      .playlist { grid-template-columns: repeat(4, 1fr); gap: 7px; }
+      .movie { min-height: 60px; }
+      .section-heading { align-items: start; flex-direction: column; gap: 7px; }
+      .now-playing { align-items: flex-start; flex-direction: column; }
+      .controls { width: 100%; }
+      .controls button { flex: 1; padding: 0 8px; }
     }
-    video {
-      width: 95%;
-      height: 95%;
-      border-radius: 50%;
-      box-shadow: 0 0 20px rgba(255,255,255,0.5);
-    }
-    footer {
-      padding: 20px;
-      text-align: center;
-      font-size: 14px;
-      color: #9aa3ad;
-      border-top: 1px solid #1b2430;
-    }
+    @media (prefers-reduced-motion: reduce) { *, *:before, *:after { scroll-behavior: auto !important; transition: none !important; } }
   </style>
 </head>
 <body>
+  <div class="topline"></div>
   <header>
-    <div class="title">Manus 古堡迎接儀式</div>
+    <div class="nav">
+      <a class="brand" href="#" aria-label="古堡典藏電影殿堂首頁">
+        <div class="crest"><span>C</span></div>
+        <div><div class="brand-name">古堡典藏</div><span class="brand-sub">CASTLE CINEMA</span></div>
+      </a>
+      <div class="nav-tag">影像典藏・歲月留痕</div>
+    </div>
   </header>
 
   <main>
-    <section class="hero">
-      <h1>歡迎進入古堡</h1>
-      <p>這裡是進註儀式的起點，所有事件都將被封存為 Doctrine。</p>
+    <section class="intro">
+      <div class="eyebrow">THE CASTLE ARCHIVE</div>
+      <h1>古堡電影殿堂</h1>
+      <p>一座收藏影像與記憶的數位殿堂。每一段影像，都是值得珍藏的故事；每一次播放，都是與時光再次相遇。</p>
+      <div class="ornament">✦</div>
     </section>
 
-    <section class="hero">
-      <h1>古堡電影展區</h1>
-      <p>水晶球框將隨機輪播影片，每一部都是一次見證。</p>
-
-      <div class="player-box">
-        <h2 id="info"></h2>
-        <video id="autoVideo" controls autoplay muted>
-          <source id="videoSource" src="" type="video/mp4">
-          您的瀏覽器不支援影片播放
-        </video>
+    <section class="cinema" aria-label="電影播放器">
+      <div class="screen-head">
+        <div class="screen-label">CASTLE PRIVATE SCREENING ROOM</div>
+        <div class="live">典藏放映中</div>
       </div>
+      <div class="screen">
+        <video id="autoVideo" controls playsinline preload="metadata">
+          <source id="videoSource" src="" type="video/mp4">
+          您的瀏覽器不支援影片播放。
+        </video>
+        <div class="screen-empty" id="screenEmpty">
+          <strong>CASTLE CINEMA</strong>
+          <span>請選擇一部典藏影片開始放映</span>
+        </div>
+      </div>
+      <div class="now-playing">
+        <div>
+          <div class="track-title" id="info">尚未選取影片</div>
+          <div class="track-sub">古堡影像典藏庫 · 隨選放映</div>
+        </div>
+        <div class="track-number" id="trackNumber">NO. — / 40</div>
+      </div>
+      <div class="controls">
+        <button type="button" id="prevBtn" aria-label="上一部">上一部</button>
+        <button type="button" class="primary" id="playBtn">開始放映</button>
+        <button type="button" id="nextBtn">下一部</button>
+        <button type="button" id="shuffleBtn">隨機選片</button>
+        <select id="movieSelect" aria-label="選擇影片"></select>
+      </div>
+    </section>
+
+    <section class="playlist-section">
+      <div class="section-heading">
+        <h2>典藏片單</h2>
+        <p>共 40 部影像 · 點選編號即可放映</p>
+      </div>
+      <div class="playlist" id="playlist" aria-label="典藏影片清單"></div>
+    </section>
+
+    <section class="closing">
+      <p>「讓影像留下，讓故事繼續。」<br>每一份記憶，都是古堡珍貴的典藏。</p>
     </section>
   </main>
 
   <footer>
-    © 2026 Manus Castle. 所有影像皆為 Doctrine 封存節點。
+    © 2026 CASTLE CINEMA · 古堡典藏電影殿堂<br>
+    ALL IMAGES ARE PRESERVED AS PART OF THE CASTLE ARCHIVE
   </footer>
 
   <script>
     const totalVideos = 40;
     const video = document.getElementById("autoVideo");
     const source = document.getElementById("videoSource");
+    const info = document.getElementById("info");
+    const trackNumber = document.getElementById("trackNumber");
+    const playlist = document.getElementById("playlist");
+    const movieSelect = document.getElementById("movieSelect");
+    const playBtn = document.getElementById("playBtn");
+    let currentIndex = 0;
 
-    function getRandomIndex(exclude) {
-      let idx;
-      do {
-        idx = Math.floor(Math.random() * totalVideos) + 1;
-      } while (idx === exclude);
-      return idx;
+    function buildPlaylist() {
+      for (let i = 1; i <= totalVideos; i++) {
+        const option = document.createElement("option");
+        option.value = String(i);
+        option.textContent = "第 " + String(i).padStart(2, "0") + " 部";
+        movieSelect.appendChild(option);
+
+        const item = document.createElement("button");
+        item.type = "button";
+        item.className = "movie";
+        item.dataset.index = String(i);
+        item.innerHTML = "<b>" + String(i).padStart(2, "0") + "</b><small>FILM</small>";
+        item.setAttribute("aria-label", "播放第 " + i + " 部影片");
+        item.addEventListener("click", () => playVideo(i, true));
+        playlist.appendChild(item);
+      }
     }
 
-    function playVideo(index) {
-      const file = `foxokiso-C3-${index}.mp4`;
+    function updateSelection() {
+      playlist.querySelectorAll(".movie").forEach(item => {
+        const active = Number(item.dataset.index) === currentIndex;
+        item.classList.toggle("active", active);
+        if (active) item.setAttribute("aria-current", "true");
+        else item.removeAttribute("aria-current");
+      });
+      movieSelect.value = String(currentIndex);
+      trackNumber.textContent = "NO. " + String(currentIndex).padStart(2, "0") + " / " + totalVideos;
+    }
+
+    function playVideo(index, autoplay) {
+      currentIndex = ((index - 1 + totalVideos) % totalVideos) + 1;
+      const file = "foxokiso-C3-" + currentIndex + ".mp4";
       source.src = file;
       video.load();
-      video.play().catch(err => console.log("播放失敗:", err));
-      document.getElementById("info").innerText =
-        `現在播放的是第 ${index} 部影片：${file}`;
+      info.textContent = "正在放映：第 " + currentIndex + " 部典藏影片";
+      document.getElementById("screenEmpty").style.display = "none";
+      updateSelection();
+      if (autoplay) {
+        video.play().then(() => { playBtn.textContent = "播放中"; })
+          .catch(() => { playBtn.textContent = "點此播放"; });
+      } else {
+        playBtn.textContent = "繼續播放";
+      }
     }
 
-    let currentIndex = 1;
-    playVideo(currentIndex);
-
-    video.addEventListener("ended", () => {
-      currentIndex = getRandomIndex(currentIndex);
-      playVideo(currentIndex);
+    document.getElementById("prevBtn").addEventListener("click", () => playVideo(currentIndex - 1 || totalVideos, true));
+    document.getElementById("nextBtn").addEventListener("click", () => playVideo(currentIndex % totalVideos + 1, true));
+    document.getElementById("shuffleBtn").addEventListener("click", () => {
+      let next = currentIndex;
+      if (totalVideos > 1) while (next === currentIndex) next = Math.floor(Math.random() * totalVideos) + 1;
+      playVideo(next, true);
     });
+    movieSelect.addEventListener("change", event => playVideo(Number(event.target.value), true));
+    playBtn.addEventListener("click", () => {
+      if (!currentIndex) playVideo(1, true);
+      else video.play().then(() => { playBtn.textContent = "播放中"; }).catch(() => {});
+    });
+    video.addEventListener("play", () => { playBtn.textContent = "播放中"; });
+    video.addEventListener("pause", () => { if (!video.ended) playBtn.textContent = "繼續播放"; });
+    video.addEventListener("ended", () => {
+      let next = currentIndex;
+      if (totalVideos > 1) while (next === currentIndex) next = Math.floor(Math.random() * totalVideos) + 1;
+      playVideo(next, true);
+    });
+    video.addEventListener("error", () => {
+      info.textContent = "影片載入失敗，請確認檔案存在：" + "foxokiso-C3-" + currentIndex + ".mp4";
+      playBtn.textContent = "重新播放";
+    });
+
+    buildPlaylist();
+    playVideo(1, false);
   </script>
 </body>
 </html>
-
